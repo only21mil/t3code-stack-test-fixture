@@ -6,3 +6,4 @@ Stale-head step: candidate rebase
 Stale-head step: desktop base merge
 Stale-head step: desktop base rebase
 Stale-head step: desktop candidate merge
+Stale-head step: desktop candidate rebase
